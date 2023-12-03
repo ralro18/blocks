@@ -3,9 +3,11 @@ static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{"",	"sb-mem",					30,		0},
 
-	{"",	"sb-vol",					5,		0},
+	{"",	"sb-bat",					30,		0},
 
-        {"",	"sb-date",					5,		0},
+	{"",	"sb-vol",					30,		0},
+
+        {"",	"sb-date",					15,		0},
 
 };
 
