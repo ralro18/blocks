@@ -1,4 +1,4 @@
-Modular status bar for dwm written in c.
+Modular status bar for dwm written in c. this is a fork, in my repo df you will find the comands to make it work
 # usage
 To use dwmblocks first run 'make' and then install it with 'sudo make install'.
 After that you can put dwmblocks in your xinitrc or other startup script to have it start with dwm.
